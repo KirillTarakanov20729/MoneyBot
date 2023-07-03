@@ -3,3 +3,13 @@
 TOKEN=
 
 API_KEY=
+
+Выполнить следующие команды: 
+
+pip install python-dotenv
+
+pip install openai
+
+pip install -U --pre aiogram
+
+pip install aiosqlite
